@@ -1,0 +1,30 @@
+# Python 字节码缓存（你刚看到的 __pycache__）
+__pycache__/
+*.py[cod]
+*.pyc
+
+# 数据集缓存文件（很大，不建议提交到 GitHub）
+*.pkl
+*.pickle
+dataset/MNIST_data/
+
+# 预训练权重文件（如果有）
+*.h5
+*.hdf5
+*.ckpt
+
+# IDE 配置文件（VS Code / PyCharm）
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统生成的垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 虚拟环境（如果你有）
+venv/
+env/
+.venv/
