@@ -13,7 +13,7 @@ def get_data():
 
 
 def init_network():
-    with open("sample_weight.pkl", 'rb') as f:
+    with open("sample_weight.pkl", 'rb') as f:  # rb read binary
         network = pickle.load(f)
     return network
 
