@@ -1,4 +1,4 @@
-# ~~**Daily_Learning**~~
+# **Daily_Learning**
 - Artificial_Intelligence
 - Jupyter
 - Linear_Algebra
