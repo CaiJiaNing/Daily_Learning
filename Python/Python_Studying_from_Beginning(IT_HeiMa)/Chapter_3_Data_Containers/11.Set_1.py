@@ -2,6 +2,11 @@
 Set:
     Automatic deduplication
     Disordered, non-repeatable and modifiable
+
+Operation:
+    & Intersection
+    | Union
+    - Difference
 """
 s1 = {"C", "D", "X", "T", "O", "U"}
 s2 = set()
